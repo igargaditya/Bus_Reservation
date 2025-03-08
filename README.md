@@ -35,7 +35,7 @@ The system follows an **OOP-based modular structure**:
 # How to Run
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/bus-reservation-system.git
+   git clone https://github.com/igargaditya/bus-reservation-system.git
    cd bus-reservation-system
 2. **Compile the Code:**:
    ```sh
