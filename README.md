@@ -1,6 +1,6 @@
 # Bus Reservation System
 
-A simple Bus Reservation System** implemented in Java, supporting AC, Non-AC, and Sleeper buses. 
+A simple Bus Reservation System implemented in Java, supporting AC, Non-AC, and Sleeper buses. 
 The system allows users to view available buses, book tickets, and cancel tickets dynamically.
 
 # Features
